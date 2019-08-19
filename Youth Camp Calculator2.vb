@@ -1,6 +1,6 @@
 ﻿'   Program Name:       Youth Camp Calculator
 '   Program Purpose:    To calculate and display the cost of youth camp.
-'   Programmer Name:    Paige Barnes
+'   Programmer Name:    Paige B
 
 Public Class frmYouthCamp
 
